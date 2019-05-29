@@ -29,13 +29,13 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:              leonharddt@gmail.com
-google.plus:        username
-#twitter:            username
-facebook:            robinchen1994
-github:              RobinC94
+email:              leonharddt@gmail.com
+#google.plus:        leonharddt@gmail.com
+#twitter:           username
+facebook:           robinchen1994
+github:             RobinC94
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           robinc94
 #xing:              username
 #instagram:          username
 #lastfm:            username
