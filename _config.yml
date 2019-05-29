@@ -29,12 +29,12 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-email:              leonharddt@gmail.com
+#email:              leonharddt@gmail.com
 #google.plus:        username
-#twitter:            username
-facebook:           Robin Chen
+twitter:            username
+#facebook:           Robin Chen
 github:             RobinC94
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
@@ -42,7 +42,7 @@ github:             RobinC94
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              leonharddt
+#steam:              leonharddt
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
@@ -52,7 +52,7 @@ steam:              leonharddt
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-#behance:           username
+behance:           username
 
 # Gems
 gems:
