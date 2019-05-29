@@ -1,17 +1,45 @@
-# _Airspace_ for Jekyll
-![screenshot](screenshots/home.png "Description goes here")
+# jekyll-uno
 
-This Jekyll theme is a port of ThemeFisher's Airspace template. It is released under ThemeFisher's free license, which requires attribution.
+Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
 
-## Usage
-To start your project, [fork this respository](https://github.com/luminousrubyist/airspace-jekyll/fork), put in your content, and go!
+> :warning:
+  This theme requires ruby and rubygems installed
 
-## Examples
-Here are some projects that have used this Jekyll Theme:
-* [BOYUAN Open Source 博辕开源](https://boyuanitsm.github.io)
-* [Campus VC](https://mrchildneo.github.io/mrchildneo/)
-* [Mãos de amar](https://www.maosdeamar.com.br/)
-* [ATK Team](http://www.atksec.com/)
-* [Coding Club](https://ourcodingclub.github.io/)
-* [Dev Empathy Book Club](http://www.devempathybook.club/)
-* [DKAN Open Data Catalog](http://getdkan.com) (modified version of this theme)
+### Features
+
+* Clean layout
+* Resposive layout
+* Pagination
+* Syntax highlighting
+* Social links
+* Tags listing page
+* Categories listing page
+* Google Analytics integration
+* Disqus integration
+
+---
+
+### Install and Test
+
+1. Download or clone repo `git clone git@github.com:joshgerdes/jekyll-uno.git`
+2. Enter the folder: `cd jekyll-uno/`
+3. If you don't have bundler installed: `gem install bundler`
+3. Install Ruby gems: `bundle install`
+4. Start Jekyll server: `bundle exec jekyll serve --watch`
+
+Access via: [http://localhost:4000/jekyll-uno/](http://localhost:4000/jekyll-uno/)
+
+---
+
+### Demo and Download
+
+[Demo](http://joshgerdes.com/jekyll-uno/)
+[Download](https://github.com/joshgerdes/jekyll-uno/archive/master.zip)
+
+![jekyll-uno - free Jekyll theme](/screenshot.png)
+
+---
+
+### Copyright and license
+
+It is under [the MIT license](/LICENSE).

@@ -1,26 +1,20 @@
 ---
-layout: page
+layout: default
 ---
-
-<div class="post">
-  <!-- Wrapper Start -->
-  <section id="intro" style="border: 1px dotted #ddd;">
-    <div class="container">
-      <div class="row">
-        <div>
-          <div class="block">
-            <h1>{{ page.title }}</h1>
-            <div class="post-info-wrapper">
-              <p class="italic">By <span class="bold">{{ page.author }}</span> on <span class="bold">{{ page.date | date: "%B %-d, %Y" }}</span></p>
-            </div>
-            <hr />
-            <p>{{ content }}</p>
-          </div>
-        </div><!-- .col-md-7 close -->
-      </div>
+<article class="post-container post-container--single">
+  <header class="post-header">
+    <div class="post-meta">
+      <time datetime="{{ page.date | date: "%Y-%m-%d %H:%M" }}" class="post-meta__date date">{{ page.date | date: "%-d %b %Y" }}</time>
+      {% if page.tags.size > 0 %}
+      &#8226; <span class="post-meta__tags">on {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</span>
+      {% endif %}
     </div>
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <section class="post">
+    {{ content }}
   </section>
-</div>
-<p class="center-text" style="padding: 30px;">
-  <a href="{{ site.baseurl }}/blog">Back to blog</a>
-</p>
+  {% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
+</article>
+{% if page.comments != false %}{% include disqus.html %}{% endif %}
