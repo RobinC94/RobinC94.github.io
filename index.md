@@ -1,10 +1,8 @@
 ---
 layout: home
 ---
-# About Theme
+# About Me
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Hi, it is Robin Chen, an AI researcher from China. I work at SenseTime Group in Shanghai, after receiving Master Degree in SJTU. I'm highly interested in AI technology and researches. Also other hobbies and interests arise in many aspects far from you know. To some extent I can say "I know everything a little bit", shamelessly.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+This is my online page, or maybe blog in the future, still in progress. Feel free to drop me a line at leonharddt@gmail.com.

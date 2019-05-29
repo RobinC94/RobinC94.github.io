@@ -1,6 +1,6 @@
 # Site
 title: Robin CHEN
-description: Psyco-programmer, 
+description: Pseudo-programmer, AI Fine-Tuner, Middle Two. 
 url: https://robinc94.github.io
 logo: halve.png                                       # Site logo
 locale: en_US
@@ -29,12 +29,12 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:              leonharddt@gmail.com
+email:              leonharddt@gmail.com
 #google.plus:        username
-twitter:            username
-facebook:           Robin Chen
-github:             RobinC94
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#twitter:            username
+facebook:            robinchen1994
+github:              RobinC94
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
@@ -42,7 +42,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-#steam:              leonharddt
+steam:              leonharddt
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
