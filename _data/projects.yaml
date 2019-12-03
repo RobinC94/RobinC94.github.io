@@ -8,3 +8,7 @@
   image: https://raw.githubusercontent.com/RobinC94/ZTEAlgorithm/master/problem/ZTE.png
   completed: true
 
+- title: CMD Blackjack
+  url: https://github.com/RobinC94/Blackjack
+  image: https://raw.githubusercontent.com/RobinC94/Blackjack/master/image/blackjack.jpg
+  completed: true
