@@ -1,10 +1,12 @@
 - title: CMD 2048
   url: https://github.com/RobinC94/2048
-  image: https://github.com/RobinC94/2048/blob/master/image/2048.jpeg
+# image: https://github.com/RobinC94/2048/blob/master/image/2048.jpeg
+  image: https://raw.githubusercontent.com/RobinC94/2048/master/image/2048.jpeg
   completed: true
 
 - title: ZTE Algorithm
   url: https://github.com/RobinC94/ZTEAlgorithm
-  image: https://github.com/RobinC94/ZTEAlgorithm/blob/master/problem/ZTE.png
+# image: https://github.com/RobinC94/ZTEAlgorithm/blob/master/problem/ZTE.png
+  image: https://raw.githubusercontent.com/RobinC94/ZTEAlgorithm/master/problem/ZTE.png
   completed: true
 
