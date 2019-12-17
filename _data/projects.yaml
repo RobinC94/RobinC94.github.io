@@ -1,14 +1,19 @@
+- title: DI-drive
+  url: https://github.com/opendilab/DI-drive
+  image: https://github.com/opendilab/DI-drive/blob/main/docs/figs/DI-drive.png
+  completed: true
+
 - title: CMD 2048
   url: https://github.com/RobinC94/2048
-  image: https://raw.githubusercontent.com/RobinC94/2048/master/image/2048.jpeg
+  image: https://github.com/RobinC94/2048/blob/master/image/2048.jpeg
   completed: true
 
 - title: ZTE Algorithm
   url: https://github.com/RobinC94/ZTEAlgorithm
-  image: https://raw.githubusercontent.com/RobinC94/ZTEAlgorithm/master/problem/ZTE.png
+  image: https://github.com/RobinC94/ZTEAlgorithm/blob/master/problem/ZTE.png
   completed: true
 
 - title: CMD Blackjack
   url: https://github.com/RobinC94/Blackjack
-  image: https://raw.githubusercontent.com/RobinC94/Blackjack/master/image/blackjack.jpg
+  image: https://github.com/RobinC94/Blackjack/blob/master/image/blackjack.jpg
   completed: true
