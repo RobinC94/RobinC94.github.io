@@ -266,6 +266,11 @@ map <leader>9 :b 9<CR>
 
 * 常用命令
 
+| \]b / \[b   | 切换buffer |
+| --- | --- 
+| \1~\9     | 切换至对应 num 的buffer
+| Ctrl + X  | 关闭当前 buffer |
+
 ### 7.自动补全
 
 * 插件配置
@@ -303,10 +308,10 @@ let g:ycm_key_list_stop_completion     = ['<Enter>']  " 中止此次补全，Def
 
 * 常用命令
 
-| <Down>	| 选择下一条补全 |
+| Down	| 选择下一条补全 |
 | --- | ---
-| <Up>		| 选择上一条补全
-| <Enter>	| 中止此次补全 / 选中补全
+| Up		| 选择上一条补全
+| Enter	| 中止此次补全 / 选中补全
 
 ### 8.运行 python
 
