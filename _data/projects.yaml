@@ -3,6 +3,15 @@
   image: ../images/big_cam_auto.png
   completed: true
 
+- title: DI-smartcross
+  url: https://github.com/opendilab/DI-smartcross
+  image: ../images/smartcross_logo.jpg
+  completed: true
+
+- title: DI-bioseq
+  url: https://github.com/opendilab/DI-bioseq
+  completed: true
+
 - title: CMD 2048
   url: https://github.com/RobinC94/2048
   image: ../images/2048.jpeg
